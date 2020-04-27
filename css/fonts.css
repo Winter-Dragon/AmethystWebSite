@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'ElegantIcons';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/ElegantIcons/ElegantIcons.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/ElegantIcons/ElegantIcons.woff") format("woff"),
+       url("../fonts/ElegantIcons/ElegantIcons.ttf") format("truetype");
+   }
+
+
+@font-face {
+  font-family: 'Anders';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Anders/Anders.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Anders/Anders.woff") format("woff"),
+       url("../fonts/Anders/Anders.ttf") format("truetype");
+   }
