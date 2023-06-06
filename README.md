@@ -1,1 +1,1 @@
-# winter-dragon.landing-amethyst.github.io
+Красивый лэндинг, созданный в процессе обучения на Frontend разработчика.
